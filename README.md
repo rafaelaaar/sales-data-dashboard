@@ -13,4 +13,4 @@ This project analyzes sales performance across regions and products using Power 
 - Highlighted underperforming segments
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
