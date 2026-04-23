@@ -8,9 +8,9 @@ This project analyzes sales performance across regions and products using Power 
 - Excel
 
 ## Key Insights
-- Identified top-performing regions
-- Analyzed product sales trends
-- Highlighted underperforming segments
+- Analyzed sales distribution to identify top-performing regions based on aggregated performance metrics
+- Evaluated product-level sales trends to identify variation in demand across categories
+- Identified underperforming segments to support performance gap analysis across regions and products
 
 ## Dashboard Preview
 ![Dashboard](Dashboard.png)
